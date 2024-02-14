@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Contexte](README.md)
+* [Analyse des Besoins de Sécurité](analyse-des-besoins-de-securite.md)
+* [Stockage des Journaux](stockage-des-journaux.md)
+* [Ingestion des journaux avec Graylog](ingestion-des-journaux-avec-graylog.md)
+* [Collecte des Logs](collecte-des-logs.md)
+* [Visualisation des données](visualisation-des-donnees.md)
+* [Configuration des agents](configuration-des-agents.md)
+* [Sysmon et Packetbeat](sysmon-et-packetbeat.md)
+* [Parsing et Indexation des Logs avec Graylog](parsing-et-indexation-des-logs-avec-graylog.md)
+* [Gestion des logs](gestion-des-logs.md)
+* [Dashboards avec Grafana](dashboards-avec-grafana.md)
+* [Suricata IDS/IPS](suricata-ids-ips.md)
+* [MISP Threat Intelligence](misp-threat-intelligence.md)
+* [Intégration de Cortex dans notre SOC](integration-de-cortex-dans-notre-soc.md)
+* [IRIS DFIR Platforme](iris-dfir-platforme.md)
+* [Intégration de Velociraptor dans notre SOC](integration-de-velociraptor-dans-notre-soc.md)
